@@ -142,10 +142,4 @@ This project is licensed under the MIT License.
 - Safari
 - Edge
 
-## 📞 Support
-
-For questions or issues, please open a GitHub issue or contact the development team.
-
----
-
 Built with ❤️ using Next.js and React Flow
