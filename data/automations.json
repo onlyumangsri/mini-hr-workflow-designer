@@ -1,0 +1,5 @@
+[
+  { "id": "send_email", "name": "Send Email" },
+  { "id": "notify_manager", "name": "Notify Manager" },
+  { "id": "update_record", "name": "Update Employee Record" }
+]
